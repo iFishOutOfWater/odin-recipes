@@ -1,1 +1,1 @@
-# odin-recipes
+<!-- In this project we will be putting the basics of html to use. Consisting of the proper elements to build a web page. Using the html, head, and body elements with opening and closing sngle brackets. Possibly even use links and images in the project.--> # odin-recipes
